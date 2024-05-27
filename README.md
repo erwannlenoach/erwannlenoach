@@ -1,10 +1,6 @@
 ### Hello World 🌍
 
-- 🌱 Ex-lawyer, I am a junior fullstack developer with the following tech stack : JS / React / React Native / Ruby / Ruby on Rails 
-- 🔭 I am currently working on a web radio app for IOS and Android
-- 🤖 I would love to collaborate on LegalTech and FinTech projects
-- 🧊 I want to learn Three.JS to create awesome 3D web projects 
-- 🙌 I stand for the values of open-mindedness, freedom and solidarity 
-- 🏄 By the way, I am also addicted to surfing 
-
+- 🌱 Ex-lawyer, I am a fullstack developer with the following tech stack : Node.JS / Python / React / SQL
+- 🤖 I would love to collaborate on LegalTech and FinTech projects, folstering the innovation in the legal and finance field though computer and data science.
+- 
 ### Happy coding ❤️
